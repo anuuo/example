@@ -1,22 +1,24 @@
-[
-    {
-        "id": 0,
-        "name": "anu",
-        "age": 16
-    },
-    {
-        "id": 1,
-        "name": "bayalagmaa",
-        "age": 18
-    },
-    {
-        "id": 2,
-        "name": "tugsuu",
-        "age": 22
-    },
-    {
-        "id": 3,
-        "name": "misheel",
-        "age": 18
-    }
-]
+{
+    users : [
+        {
+            "id": 0,
+            "name": "anu",
+            "age": 16
+        },
+        {
+            "id": 1,
+            "name": "bayalagmaa",
+            "age": 18
+        },
+        {
+            "id": 2,
+            "name": "tugsuu",
+            "age": 22
+        },
+        {
+            "id": 3,
+            "name": "misheel",
+            "age": 18
+        }
+    ]
+}
