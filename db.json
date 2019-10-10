@@ -2,23 +2,23 @@
    "users" : [
         {
             "id": 0,
-            "name": "anu",
-            "age": 16
+            "firstname": "anu",
+            "lastname" : "otgonjargal"
         },
         {
             "id": 1,
-            "name": "bayalagmaa",
-            "age": 18
+            "firstname": "Bayalagmaa",
+            "lastname" : "Sofia"
         },
         {
             "id": 2,
-            "name": "tugsuu",
-            "age": 22
+            "firstname": "Tugsuu",
+            "lastname" : "haha"
         },
         {
             "id": 3,
-            "name": "misheel",
-            "age": 18
+            "firstname": "misheel",
+            "lastname" : "chingun"
         }
     ]
 }
