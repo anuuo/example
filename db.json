@@ -1,5 +1,5 @@
-  
-[
+{
+"users" : [
   {
     "id": 1,
     "category": "Ахуйн хэрэглэгч",
@@ -44,5 +44,33 @@
     "nightprice": 328462,
     "VAT": 76576,
     "loss": 72537
+  },
+  {
+    "id": 6,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": "Зүүн",
+    "dayprice": 342300,
+    "nightprice": 328462,
+    "VAT": 547623576,
+    "loss": 7223537
+  },
+  {
+    "id": 7,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": "Баруун",
+    "dayprice": 138922300,
+    "nightprice": 23328462,
+    "VAT": 12376576,
+    "loss": 7132537
+  },
+  {
+    "id": 8,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
   }
 ]
+}
