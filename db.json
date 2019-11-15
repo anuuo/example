@@ -1,24 +1,191 @@
-{
-   "users" : [
-        {
-            "id": 0,
-            "firstname": "anu",
-            "lastname" : "otgonjargal"
-        },
-        {
-            "id": 1,
-            "firstname": "Bayalagmaa",
-            "lastname" : "Sofia"
-        },
-        {
-            "id": 2,
-            "firstname": "Tugsuu",
-            "lastname" : "haha"
-        },
-        {
-            "id": 3,
-            "firstname": "misheel",
-            "lastname" : "chingun"
-        }
-    ]
-}
+
+  {
+    "id": 1,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 2,
+    "category": "Аж ахуйн нэгж",
+    "regioncategory": "Баруун",
+    "dayprice": 13892300,
+    "nightprice": 328487662,
+    "VAT": 76324576,
+    "loss": 72523437
+  },
+  {
+    "id": 3,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": "Зүүн",
+    "dayprice": 342300,
+    "nightprice": 328462,
+    "VAT": 547623576,
+    "loss": 7223537
+  },
+  {
+    "id": 4,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": "Баруун",
+    "dayprice": 138922300,
+    "nightprice": 23328462,
+    "VAT": 12376576,
+    "loss": 7132537
+  },
+  {
+    "id": 5,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 6,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": "Баруун",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 2134,
+    "loss": 54321
+  },
+  {
+    "id": 7,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": "БаруунТөв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 8,
+    "category": "Аж ахуйн нэгж",
+    "regioncategory": " Төв",
+    "dayprice": 92342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 9,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 3892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 10,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 11,
+    "category": " Аж ахуйн нэгж",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 12,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 13,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 14,
+    "category": "Аж ахуйн нэгж",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 3265462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 15,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 16,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 17,
+    "category": "Аж ахуйн нэгж",
+    "regioncategory": " Төв",
+    "dayprice": 342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 18,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 92342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 19,
+    "category": "Аж ахуйн нэгж",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 20,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  },
+  {
+    "id": 1,
+    "category": "Ахуйн хэрэглэгч",
+    "regioncategory": " Төв",
+    "dayprice": 13892342300,
+    "nightprice": 328462,
+    "VAT": 76576,
+    "loss": 72537
+  }
+]
