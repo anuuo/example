@@ -88,32 +88,5 @@
     "nightprice": 328462,
     "VAT": 76576,
     "loss": 72537
-  },
-  {
-    "id": 11,
-    "category": " Аж ахуйн нэгж",
-    "regioncategory": " Төв",
-    "dayprice": 13892342300,
-    "nightprice": 328462,
-    "VAT": 76576,
-    "loss": 72537
-  },
-  {
-    "id": 12,
-    "category": "Ахуйн хэрэглэгч",
-    "regioncategory": " Төв",
-    "dayprice": 13892342300,
-    "nightprice": 328462,
-    "VAT": 76576,
-    "loss": 72537
-  },
-  {
-    "id": 13,
-    "category": "Ахуйн хэрэглэгч",
-    "regioncategory": " Төв",
-    "dayprice": 13892342300,
-    "nightprice": 328462,
-    "VAT": 76576,
-    "loss": 72537
   }
 ]
