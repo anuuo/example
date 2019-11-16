@@ -3,7 +3,7 @@
   {
     "id": 1,
     "category": "Ахуйн хэрэглэгч",
-    "regioncategory": " Төв",
+    "regioncategory": "Төв",
     "dayprice": 13892342300,
     "nightprice": 328462,
     "renewablePrice": 374681,
@@ -59,7 +59,7 @@
   {
     "id": 5,
     "category": "Ахуйн хэрэглэгч",
-    "regioncategory": " Төв",
+    "regioncategory": "Төв",
     "dayprice": 13892342300,
     "nightprice": 328462,
     "renewablePrice": 374681,
@@ -104,7 +104,7 @@
   {
     "id": 8,
     "category": "Аж ахуйн нэгж",
-    "regioncategory": " Төв",
+    "regioncategory": "Төв",
     "dayprice": 13892342300,
     "nightprice": 328462,
     "rushHourPrice": 2736182,
